@@ -17,6 +17,4 @@ This solution is different to others because it will use multirotor https://www.
 
 Thanks to Machine Learning with NVIDIA Jetson, we will be able to provide almost real time alarms to first responders each time that a structural stability threat is detected. 
 
-This solution is useful because forty two percent of bridges in the USA are at least 50 years old, and 46,000 bridges are in poor condition. A predictive maintenance program can help extend the bridges’ life, thereby minimizing the need to replace the majority of bridges within a short time.es rather than doing this all sequentially. Full (512 data samples) FIFO buffer read time is ~3.1 ms. Theoretical read time should be (512 samples x 7 bytes/sample x 8 bits/byte)/10 MHz = 2.87 ms so we are above 93% efficiency with > 15 ms of headroom.
 
-Next steps are to test the IIS3DWB against a known vibrational source for accuracy and, after that, add a PDM mic for an overlapping frequency range sensitivity between 100 Hz and 40 kHz. The challenge will be to maintain full data and fft throughput on both data streams without collisions.
