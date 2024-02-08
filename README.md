@@ -1,5 +1,5 @@
-# IIS3DWB
-**Arduino sketches for ST's vibration analyzer accelerometer**
+# AI Innovation Challenge
+**Using Jetson Orin**
 
 From the [data sheet]( https://www.st.com/resource/en/datasheet/iis3dwb.pdf):
 "The IIS3DWB is a system-in-package featuring a 3-axis digital vibration sensor with low noise over an ultra-wide and 
