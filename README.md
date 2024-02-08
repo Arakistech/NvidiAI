@@ -6,12 +6,13 @@ The proposed project aims to address the challenge of superficial damage assessm
 
 
 
+https://github.com/Arakistech/NvidiAI/assets/107245718/072b1fd0-b5a8-4beb-91b1-f1cb236f1b6a
 
 
 To overcome these limitations, the proposed project utilizes drones equipped with high-resolution cameras to capture images of bridge structures, which are then analysed using a deep neural network-based approach. Specifically, a convolutional neural network (CNN) architecture is employed to classify and locate four categories of damage, including intact, cracked, effloresced, and spalled surfaces, with an accuracy greater than 90%.
 
 Existing CNN-based damage detection methods have not been specifically designed for the identification of multiple damage types in masonry historic structures. Therefore, the proposed project seeks to develop a novel approach that is specifically tailored to the unique challenges associated with inspecting and monitoring these types of structures. The proposed approach will enable engineers to more efficiently and accurately assess the structural health of bridges, ultimately leading to improved safety and reduced maintenance costs.
-https://github.com/Arakistech/NvidiAI/assets/107245718/41cbdaaf-12aa-4ab5-bc68-6b4eb6e9e505
+
 
 *IIS3DWB breakout board sitting atop a Dragonfly STM32L476 development board via female pin headers.*
  
